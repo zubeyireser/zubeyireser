@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zubeyireser
-- 👀 I’m interested in web-development, data analysis, data acquisition
+- 👀 I’m interested in data science, data analytics.
 - 🌱 I’m currently learning html,css, python
 - 💞️ I’m looking to collaborate on data analysis, longitudinal data analysis, microeconometrics, time series analysis
 - 📫 How to reach me eser.zubeyir0@gmail.com
